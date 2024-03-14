@@ -27,3 +27,7 @@ Para obtener más información sobre el frontend de este proyecto, visita el rep
 [Front-CanchaUp](https://github.com/LucaUnlimited/Front-CanchaUp)
 
 
+## Autor
+
+Este proyecto fue desarrollado por [Rivera Luca](#) - Contacto: [lucamartinrivera@gmail.com](mailto:tuemail@example.com)
+
